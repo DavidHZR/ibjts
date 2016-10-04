@@ -20,7 +20,7 @@ public class ConnectDlg extends JDialog {
     public static int LAST_CLIENT_ID = 0;
 
     JTextField 	m_ipAddress = new JTextField();
-    JTextField 	m_port = new JTextField( "7496");
+    JTextField 	m_port = new JTextField( "7497");
     JTextField 	m_clientId = new JTextField();
     JTextField  m_optCapts = new JTextField();
     JButton 	m_ok = new JButton( "OK");
